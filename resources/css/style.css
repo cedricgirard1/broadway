@@ -1,0 +1,32 @@
+body {
+  font-family: Helvetica;
+  text-align: center;
+}
+#home {
+  background-image: url("/Users/cedricgirard/Documents/broadway/resources/the-flatiron-building.png");
+  color: white;
+}
+h1 {
+  font-size: 70px;
+}
+.top {
+  font-size: 18px;
+}
+h2 {
+  font-size: 32px;
+}
+h3 {
+  font-size: 23px;
+}
+p {
+  font-size: 14px;
+}
+.newyork {
+  color: white;
+  background-image: url("/Users/cedricgirard/Documents/broadway/resources/the-flatiron-building.png");
+}
+.bottom {
+  background-color: dimgray;
+  color: white;
+  font-size: 11px;
+}
